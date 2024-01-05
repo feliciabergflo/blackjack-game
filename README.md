@@ -1,4 +1,4 @@
-# Blackjack Game in C#
+# Blackjack Game in in C# and .NET 7
 This project was developed as part of the assignments for the course "Programming in C#, III" (DA208E) at Malmö University. These where the primary goals of the assignments:
 
 1. Explore the  three-layered architecture, incorporating a presentation layer, business logic layer, and data access layer.
