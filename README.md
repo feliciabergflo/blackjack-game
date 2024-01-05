@@ -7,3 +7,6 @@ This project was developed as part of the assignments for the course "Programmin
 
 ## Overview
 The project is a simplified Blackjack game designed to incorporate various aspects of C# programming, software architecture, and database management. The Blackjack game includes multiple players, each interacting with the game independently, a dealer managing the game, and decks of cards with a specific number of cards.
+
+![image](https://github.com/feliciabergflo/blackjack-game/assets/81237992/1ceffe54-226b-4685-933e-5da7450d7a82)
+*Screenshot of the GUI*
